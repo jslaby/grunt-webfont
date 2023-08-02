@@ -1,5 +1,5 @@
 {
-  "name": "grunt-webfont",
+  "name": "grunt-webfont-v2",
   "description": "Ultimate SVG to webfont converter for Grunt. Fork from sapegin/grunt-webfont",
   "version": "2.0.0",
   "homepage": "https://github.com/jslaby/grunt-webfont",
