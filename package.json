@@ -1,25 +1,21 @@
 {
   "name": "grunt-webfont",
-  "description": "Ultimate SVG to webfont converter for Grunt.",
+  "description": "Ultimate SVG to webfont converter for Grunt. Fork from sapegin/grunt-webfont",
   "version": "2.0.0",
-  "homepage": "https://github.com/sapegin/grunt-webfont",
+  "homepage": "https://github.com/jslaby/grunt-webfont",
   "author": {
-    "name": "Artem Sapegin",
-    "url": "http://sapegin.me/"
+    "name": "Justin Slaby",
+    "url": "https://github.com/jslaby"
   },
   "contributors": [
-    "Maxime Thirouin (http://moox.io/)",
-    "Aaron Lampros (https://github.com/alampros)",
-    "Cyrille Meichel (https://github.com/landru29)",
-    "Justin Leider (https://github.com/jleider)",
     "Justin Slaby (https://github.com/jslaby)"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/sapegin/grunt-webfont.git"
+    "url": "git://github.com/jslaby/grunt-webfont.git"
   },
   "bugs": {
-    "url": "https://github.com/sapegin/grunt-webfont/issues"
+    "url": "https://github.com/jslaby/grunt-webfont/issues"
   },
   "license": "MIT",
   "main": "tasks/webfont.js",
